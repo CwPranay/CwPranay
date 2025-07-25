@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Front-end Developer.<br>Passionate about creating user-friendly,<br> and responsive web interfaces.<br>Currently, I'm exploring the MERN stack and,<br>working towards becoming a Full Stack Developer.<br><br><br>
+I'm a MERN Stack Developer passionate about building responsive and user-centric web applications.
+I specialize in developing modern, scalable solutions using React, Next.js, and Node.js, with a strong focus on performance and maintainability.
+Currently, I’m advancing my expertise in full-stack development, leveraging the power of the MERN stack to deliver end-to-end web solutions.<br><br><br>
 
 
 ## 🌐 Socials:
